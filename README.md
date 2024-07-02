@@ -11,4 +11,8 @@ Themesbrand ChatVia Vulnerabilites
 # Malicious File Upload:
 1. Capture profile image upload request and then chane the type and content to upload html file (containing javascript code). 
 ![image](https://github.com/php-lover-boy/ChatVia/assets/111951701/c17f63d0-92f3-4089-860c-e2a748e041a5)
+2. Below image is the url of uploaded file.
+   ![image](https://github.com/php-lover-boy/ChatVia/assets/111951701/f5e1a185-6907-4f4e-914a-75202e64e612)
+
+ 
 
