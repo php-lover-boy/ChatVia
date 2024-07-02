@@ -8,6 +8,7 @@ Themesbrand ChatVia Vulnerabilites
 4. Replace other user id with your id and send the request.
    ![image](https://github.com/php-lover-boy/ChatVia/assets/111951701/cccc3eb4-753b-4d87-9945-04555604a5d8)
 
-
-
+# Malicious File Upload:
+1. Capture profile image upload request and then chane the type and content to upload html file (containing javascript code). 
+![image](https://github.com/php-lover-boy/ChatVia/assets/111951701/c17f63d0-92f3-4089-860c-e2a748e041a5)
 
